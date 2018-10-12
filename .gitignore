@@ -102,6 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 # users add
 login_data.ini
+=======
+>>>>>>> 7ac7d69fe28202c9b9d99e8bd66d6a47307dd265
