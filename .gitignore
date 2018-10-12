@@ -106,5 +106,6 @@ venv.bak/
 
 # users add
 login_data.ini
+*.ini
 =======
 >>>>>>> 7ac7d69fe28202c9b9d99e8bd66d6a47307dd265
